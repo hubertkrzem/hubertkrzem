@@ -8,11 +8,11 @@
   <li>👨‍💻 Founder and Developer @ <b>hk</b></li>
 </ul>
 
-
 <h2>⭐️ Current Projects</h2>
 <ul>
   <li>📄 Personal portfolio website</li>
   <li>⚽️ FPL notifications app</li>
+  <li>🌝 Rummikub logic in Python</li>
 </ul>
 
 <h2>🧰 My Toolbox</h2>
@@ -36,18 +36,3 @@
 <a href="https://www.linkedin.com/in/hubert-krzemieniewski" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
 </a>
-
-<!--
-**hubert-krzem/hubert-krzem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
