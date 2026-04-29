@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hubert Krzemieniewski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## 🤔 About Me
-I am a third-year Computer Science and Data Science student at University College Dublin. <br>
+I Product Management Intern at IBM, and third-year Computer Science and Data Science student at University College Dublin. <br>
 
 ## 💼 What I'm Working On
 - ⚽️ FPL notifications app, developed in Swift and Python, utilizing the Fantasy Premier League API
@@ -15,7 +15,6 @@ I am a third-year Computer Science and Data Science student at University Colleg
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase">
 </div>
 
 ## 🌐 Connect with me
