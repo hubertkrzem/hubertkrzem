@@ -1,11 +1,14 @@
 <h1 align="center">Hi, I'm Hubert Krzemieniewski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
 ## 🤔 About Me
-I Product Management Intern at IBM, and third-year Computer Science and Data Science student at University College Dublin. <br>
+- Product Management Intern @ IBM
+- 3rd year CS and DS @ University College Dublin
+- Founder and Web Dev @ **hk**
 
 ## 💼 What I'm Working On
-- ⚽️ FPL notifications app, developed in Swift and Python, utilizing the Fantasy Premier League API
-- 🌐 Personal portfolio website, learning React utilising the next.js framework
+- ⚽️ FPL notifications app
+- ⭐️ Personal portfolio website
 
 ## 🧰 My Toolbox
 <div>
