@@ -10,9 +10,9 @@
 
 <h2>⭐️ Current Projects</h2>
 <ul>
-  <li>📄 Personal portfolio website</li>
-  <li>⚽️ FPL notifications app</li>
-  <li>🌝 Rummikub logic in Python</li>
+  <li> 📄  Personal portfolio website</li>
+  <li> ⚽️  FPL notifications app</li>
+  <li>🐍🪜 Snakes & Ladders Monte Carlo Sim</li>
 </ul>
 
 <h2>🧰 My Toolbox</h2>
