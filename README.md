@@ -3,8 +3,7 @@
 
 <h2>🤔 About Me</h2>
 <ul>
-  <li>🔵 Product Management Intern @ <b>IBM</b></li>
-  <li>🎓 3rd year CS and DS @ <b>University College Dublin</b></li>
+  <li>🎓 Final year CS (Data Science and AI) @ <b>University College Dublin</b></li>
   <li>👨‍💻 Founder and Developer @ <b>hk</b></li>
 </ul>
 
@@ -35,4 +34,7 @@
 <h2>🤝 Connect with me</h2>
 <a href="https://www.linkedin.com/in/hubert-krzemieniewski" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
+</a>
+<a href="https://www.hubertkrzem.com">
+	<img src="https://www.hubertkrzem.com/hk_logo](https://www.hubertkrzem.com/logo-hk.svg" alt="hk logo" width="40" height="40">
 </a>
