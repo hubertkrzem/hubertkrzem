@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hubert Krzemieniewski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Hubert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <h2>🤔 About Me</h2>
@@ -36,5 +36,5 @@
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
 </a>
 <a href="https://www.hubertkrzem.com">
-	<img src="https://media.licdn.com/dms/image/v2/D4D0BAQG_L1A-U_uENw/company-logo_200_200/B4DZx7SAm_IUAM-/0/1771594845105?e=1791417600&amp;v=beta&amp;t=WkCykTXriGSYoCDa0dJ-JDCffmDKF7k8AkOeqn51J7M" alt="hk logo" width="40" height="40">
+	<img src="https://www.hubertkrzem.com/logo-hk-cube.png" alt="hk logo" width="40" height="40">
 </a>
